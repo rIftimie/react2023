@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App {
+    text-align: center;
+}
+.Card {
+    border-radius: 10px;
+    list-style-type: none;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.Card li {
+    flex: 0 33.33% auto;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: aliceblue;
+    box-shadow: 0px 0px 10px rgb(173, 173, 173);
+}
+.Card li button {
+    margin-top: 1rem;
+}
+.blurr {
+    filter: blur(2px);
+}
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
