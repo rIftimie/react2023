@@ -1,5 +1,6 @@
 import "./App.css";
 import Cards from "./components/card/Cards";
+import Container from "./components/todo/Container";
 
 function App() {
     function difuminarTodos() {
@@ -56,10 +57,7 @@ function App() {
     ];
     return (
         <div className="App">
-            <h1>Personal</h1>
-            <button onClick={difuminarTodos}>Difuminar Todos</button>
-            <button onClick={mostrarTodos}>Mostrar Todos</button>
-            <Cards items={personas} />
+            <Container className="hola" />
         </div>
     );
 }

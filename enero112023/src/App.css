@@ -26,8 +26,15 @@
 .Card li button {
     margin-top: 1rem;
 }
-.blurr {
-    filter: blur(2px);
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+main section {
+    border: 1px solid black;
+    padding: 1rem;
+    flex: 0 1 25%;
+    margin: 1rem;
 }
 @keyframes App-logo-spin {
     from {
