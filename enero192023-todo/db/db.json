@@ -1,42 +1,16 @@
 {
   "notes": [
     {
-      "id": "ca0c8b94-864a-4e5d-b81b-2d82dea91530",
-      "title": "Otro",
-      "importance": "2",
-      "date": "Tue Jan 24 2023 17:05:50 GMT+0100 (Central European Standard Time)"
+      "id": "7a115be1-8a28-4615-aef7-2143d702acd1",
+      "title": "Prueba",
+      "importance": "3",
+      "date": "Thu Jan 26 2023 21:25:46 GMT+0100 (Central European Standard Time)"
     },
     {
-      "id": "137e5422-9d7b-4b8e-ac0b-999c779b7d30",
-      "title": "Eso digo ",
-      "importance": "4",
-      "date": "Tue Jan 24 2023 17:27:21 GMT+0100 (Central European Standard Time)",
-      "name": "Eso digo ",
-      "grade": "2"
-    },
-    {
-      "id": "9fc0c77c-56b3-47eb-8657-e424fe5878dd",
-      "title": "Hola",
-      "importance": "2",
-      "date": "Wed Jan 25 2023 17:49:39 GMT+0100 (Central European Standard Time)"
-    },
-    {
-      "id": "40ecb7c3-349a-41b4-a945-8da3e9fb2eb7",
-      "title": "Hola",
-      "importance": "2",
-      "date": "Wed Jan 25 2023 17:49:39 GMT+0100 (Central European Standard Time)"
-    },
-    {
-      "id": "b21606c4-bb20-46d3-ac3d-76543dd8d702",
-      "title": "Hola",
-      "importance": "2",
-      "date": "Wed Jan 25 2023 17:49:40 GMT+0100 (Central European Standard Time)"
-    },
-    {
-      "id": "001af875-3e9e-4ad5-a2bb-0067059d4123",
-      "title": "Hola",
-      "importance": "2",
-      "date": "Wed Jan 25 2023 17:49:40 GMT+0100 (Central European Standard Time)"
+      "id": "a29e86ef-e3a7-4c96-8742-ddba78c8ae3d",
+      "title": "Nueva Tarea",
+      "importance": "1",
+      "date": "Thu Jan 26 2023 21:25:51 GMT+0100 (Central European Standard Time)"
     }
   ]
 }
